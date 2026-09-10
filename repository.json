@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "windroid.Calculator",
+      "name": "Calculator",
+      "version": "1.0.0",
+      "type": "wqa",
+      "download": "https://github.com/Hazik8/WinDroidApps/releases/download/Calc1.0/Calculator.wqa",
+      "sha256": "239b2a79ca10638b60ca951773b3d2da48887e13fe321bc6861055fc6b8a9d64"
+    }
+  ]
+}
